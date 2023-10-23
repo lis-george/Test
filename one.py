@@ -1,5 +1,9 @@
 # Test File
 # hello
 
-# testing branch merge
+# testing if remote is working
+# testing if pull is working
+# creating a conflict
+# testing conflicts
+
 
